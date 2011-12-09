@@ -5,7 +5,7 @@
 
 #define FRUITCLICK_WIDTH 320
 #define FRUITCLICK_HEIGHT 480
-#define FRUITCLICK_APPLE_RADIUS 30
+#define FRUITCLICK_APPLE_RADIUS 25
 #define TO_DEG 57.29f
 
 namespace FruitClick {

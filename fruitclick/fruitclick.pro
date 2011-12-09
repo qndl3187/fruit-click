@@ -6,6 +6,7 @@ DESTDIR = ../fruitclick
 
 DEFINES += FRUITCLICK_LIBRARY
 LIBS += -L../fruitclick -lbox2d
+INCLUDEPATH += .
 
 SOURCES += platform.cpp \
     application.cpp \
